@@ -7,7 +7,7 @@ A passionate web developer eager to learn and grow in the world of coding!
 
 💬 Ask me about: HTML, CSS, JavaScript, React, Angular, PHP Laravel, SQL, MariaDB, MongoDB
 
-📫 How to reach me: [lgardia026@ieszaidinvergeles.or](mailto:lgardia026@ieszaidinvergeles.org)
+📫 How to reach me: [lgardia026@ieszaidinvergeles.org](mailto:lgardia026@ieszaidinvergeles.org)
 
 ---
 
