@@ -3,23 +3,23 @@
 A passionate web developer eager to learn and grow in the world of coding!  
 🌱 I’m currently learning different programming languages, APIs, and frameworks.
 
-👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/tuusuario)
+👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/lgardia1)
 
 💬 Ask me about: HTML, CSS, JavaScript, React, Angular, PHP Laravel, SQL, MariaDB, MongoDB
 
-📫 How to reach me: [tu-email@dominio.com](mailto:tu-email@dominio.com)
+📫 How to reach me: [tu-email@dominio.com](mailto:lgardia026@ieszaidinvergeles.org)
 
 ---
 
 ## Projects
 
-### 📁 [CRUD-Pokémon](https://github.com/tuusuario/CRUD-Pokemon)
+### 📁 [Pokémon](https://github.com/lgardia1/Pokemon)
 A CRUD application where users can add, edit, and delete Pokémon data using PHP and MySQL.
 
-### 📁 [PokémonLaravel](https://github.com/tuusuario/PokemonLaravel)
+### 📁 [Pokémon Laravel](https://github.com/lgardia1/PokemonLaravel/)
 A Pokémon database management system built using Laravel, featuring authentication and CRUD operations.
 
-### 📁 [SubirArchivos](https://github.com/tuusuario/SubirArchivos)
+### 📁 [Subir Archivos](https://github.com/lgardia1/Subida-de-archivos-en-Laravel)
 A simple file upload system that allows users to upload images to the server using PHP and MySQL.
 
 ---
