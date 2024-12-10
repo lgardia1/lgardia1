@@ -7,7 +7,7 @@ A passionate web developer eager to learn and grow in the world of coding!
 
 💬 Ask me about: HTML, CSS, JavaScript, React, Angular, PHP Laravel, SQL, MariaDB, MongoDB
 
-📫 How to reach me: [tu-email@dominio.com](mailto:lgardia026@ieszaidinvergeles.org)
+📫 How to reach me: [lgardia026@ieszaidinvergeles.or](mailto:lgardia026@ieszaidinvergeles.org)
 
 ---
 
@@ -26,9 +26,9 @@ A simple file upload system that allows users to upload images to the server usi
 
 ## 🤝 Connect with me:
 
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tuusuario)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario/)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-garcía-díaz-100795280/)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 ---
 
