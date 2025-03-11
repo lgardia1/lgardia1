@@ -22,6 +22,9 @@ A Pokémon database management system built using Laravel, featuring authenticat
 ### 📁 [Subir Archivos](https://github.com/lgardia1/Subida-de-archivos-en-Laravel)
 A simple file upload system that allows users to upload images to the server using PHP and MySQL.
 
+### 📁 [Tamagochi Cabron](https://github.com/lgardia1/Tamagochi-Cabron)
+A online game donde in javascript and typescript where your play a mini 2d battle royale of 2-4 in a resizable board and torment... all configurable  
+
 ---
 
 ## 🤝 Connect with me:
