@@ -23,7 +23,10 @@ A Pokémon database management system built using Laravel, featuring authenticat
 A simple file upload system that allows users to upload images to the server using PHP and MySQL.
 
 ### 📁 [Tamagochi Cabron](https://github.com/lgardia1/Tamagochi-Cabron)
-A online game donde in javascript and typescript where your play a mini 2d battle royale of 2-4 in a resizable board and torment... all configurable  
+A online game donde in javascript and typescript where your play a mini 2d battle royale of 2-4 in a resizable board and torment... all settings are configurable.  
+
+### [ACPhotograhy](https://github.com/lgardia1/ACPhotography)
+Web design with html, css y js of fictitious photography company or team.
 
 ---
 
