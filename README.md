@@ -33,6 +33,7 @@ A simple vanilla web where you can make your own tier list.
 
 ### 🎵 [Audio player](https://github.com/lgardia1/Audio-Player)
 A web with a smooth audio player where is donde in vanilla html, css and js.
+
 ---
 
 ## 🤝 Connect with me:
